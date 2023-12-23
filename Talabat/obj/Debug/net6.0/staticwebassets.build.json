@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1mUZTXVgPu/RwyGoPAisZGrw2g72eTp5GftDHGpifGo=",
+  "Hash": "t+X2kdVT3x2Up4te/fNs2UOMPadrPJ77mIVuqU446oo=",
   "Source": "Talabat",
   "BasePath": "_content/Talabat",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Talabat\\wwwroot",
       "Source": "Talabat",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\clients\\2015080418222035686.gif",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\clients\\2015080418222035686.gif",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/clients/2015080418222035686.gif",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\clients\\2015080418222035686.gif"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\clients\\OIP (1).jpeg",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\clients\\OIP (1).jpeg",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/clients/OIP (1).jpeg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\clients\\OIP (1).jpeg"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\clients\\OIP (2).jpeg",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\clients\\OIP (2).jpeg",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/clients/OIP (2).jpeg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\clients\\OIP (2).jpeg"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\clients\\OIP (3).jpeg",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\clients\\OIP (3).jpeg",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/clients/OIP (3).jpeg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\clients\\OIP (3).jpeg"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\clients\\OIP.jpeg",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\clients\\OIP.jpeg",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/clients/OIP.jpeg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\clients\\OIP.jpeg"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\clients\\restaurant-logo-mr-bolat.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\clients\\restaurant-logo-mr-bolat.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/clients/restaurant-logo-mr-bolat.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\clients\\restaurant-logo-mr-bolat.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\boot-ang1.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\boot-ang1.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/boot-ang1.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\boot-ang1.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\boot-ang2.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\boot-ang2.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/boot-ang2.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\boot-ang2.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\boot-core1.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\boot-core1.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/boot-core1.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\boot-core1.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\boot-core2.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\boot-core2.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/boot-core2.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\boot-core2.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\boot-redis1.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\boot-redis1.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/boot-redis1.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\boot-redis1.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\glove-code1.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\glove-code1.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/glove-code1.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\glove-code1.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\glove-code2.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\glove-code2.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/glove-code2.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\glove-code2.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\glove-react1.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\glove-react1.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/glove-react1.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\glove-react1.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\glove-react2.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\glove-react2.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/glove-react2.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\glove-react2.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\hat-core1.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\hat-core1.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/hat-core1.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\hat-core1.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\hat-react1.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\hat-react1.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/hat-react1.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\hat-react1.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\hat-react2.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\hat-react2.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/hat-react2.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\hat-react2.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\sb-ang1.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\sb-ang1.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/sb-ang1.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\sb-ang1.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\sb-ang2.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\sb-ang2.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/sb-ang2.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\sb-ang2.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\sb-core1.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\sb-core1.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/sb-core1.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\sb-core1.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\sb-core2.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\sb-core2.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/sb-core2.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\sb-core2.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\sb-react1.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\sb-react1.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/sb-react1.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\sb-react1.png"
     },
     {
-      "Identity": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\Images\\products\\sb-ts1.png",
+      "Identity": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\Images\\products\\sb-ts1.png",
       "SourceId": "Talabat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\asp.net web api from YouTube\\RealProject\\Talabat\\wwwroot\\",
+      "ContentRoot": "D:\\work\\talbat khaled ali\\Talabat-Project\\Talabat\\wwwroot\\",
       "BasePath": "_content/Talabat",
       "RelativePath": "Images/products/sb-ts1.png",
       "AssetKind": "All",

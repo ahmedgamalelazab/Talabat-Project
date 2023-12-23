@@ -17,3 +17,23 @@ F:\asp.net web api from YouTube\RealProject\LoggerService\bin\Debug\net6.0\Entit
 F:\asp.net web api from YouTube\RealProject\LoggerService\bin\Debug\net6.0\Entities.pdb
 F:\asp.net web api from YouTube\RealProject\LoggerService\bin\Debug\net6.0\Shared.dll
 F:\asp.net web api from YouTube\RealProject\LoggerService\bin\Debug\net6.0\Shared.pdb
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\bin\Debug\net6.0\LoggerService.dll
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\bin\Debug\net6.0\Contracts.dll
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\bin\Debug\net6.0\Entities.dll
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\bin\Debug\net6.0\Shared.dll
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\bin\Debug\net6.0\Contracts.pdb
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\bin\Debug\net6.0\Entities.pdb
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\bin\Debug\net6.0\Shared.pdb
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\obj\Debug\net6.0\LoggerService.sourcelink.json
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CopyComplete
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\obj\Debug\net6.0\LoggerService.dll
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+D:\work\talbat khaled ali\Talabat-Project\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
