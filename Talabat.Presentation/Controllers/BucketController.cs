@@ -58,8 +58,8 @@ namespace Talabat.Presentation.Controllers
                     Result resp = _imageKitClient.Upload(request);
 
                     // Log: File successfully uploaded
-                    // string jsonResponse = JsonConvert.SerializeObject(new { message = "Image uploaded", result = resp });
-                    return Ok(resp.name);
+                    string jsonResponse = JsonConvert.SerializeObject(new { message = "Image uploaded", result = resp.name });
+                    return Ok(jsonResponse);
                 }
             }
             catch (Exception ex)
