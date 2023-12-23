@@ -1,0 +1,88 @@
+2023-10-03 00:41:22.4522 INFO Here is info message from our values controller.
+2023-10-03 00:41:22.6756 DEBUG Here is debug message from our values controller.
+2023-10-03 00:41:22.6814 WARN Here is warn message from our values controller.
+2023-10-03 00:41:22.7245 ERROR Here is an error message from our values controller.
+2023-10-03 00:58:18.5363 INFO Here is info message from our values controller.
+2023-10-03 00:58:18.6931 DEBUG Here is debug message from our values controller.
+2023-10-03 00:58:18.6931 WARN Here is warn message from our values controller.
+2023-10-03 00:58:18.6931 ERROR Here is an error message from our values controller.
+2023-10-03 01:11:06.2636 INFO Here is info message from our values controller.
+2023-10-03 01:11:06.5463 DEBUG Here is debug message from our values controller.
+2023-10-03 01:11:06.5513 WARN Here is warn message from our values controller.
+2023-10-03 01:11:06.5513 ERROR Here is an error message from our values controller.
+2023-10-03 01:13:51.3813 INFO Here is info message from our values controller.
+2023-10-03 01:13:51.5249 DEBUG Here is debug message from our values controller.
+2023-10-03 01:13:51.5249 WARN Here is warn message from our values controller.
+2023-10-03 01:13:51.5249 ERROR Here is an error message from our values controller.
+2023-10-03 01:23:27.3661 INFO Here is info message from our values controller.
+2023-10-03 01:23:27.5529 DEBUG Here is debug message from our values controller.
+2023-10-03 01:23:27.5529 WARN Here is warn message from our values controller.
+2023-10-03 01:23:27.5529 ERROR Here is an error message from our values controller.
+2023-10-03 05:59:45.5989 INFO Here is info message from our values controller.
+2023-10-03 05:59:45.7918 DEBUG Here is debug message from our values controller.
+2023-10-03 05:59:45.7918 WARN Here is warn message from our values controller.
+2023-10-03 05:59:45.7918 ERROR Here is an error message from our values controller.
+2023-10-03 06:11:35.7459 INFO Here is info message from our values controller.
+2023-10-03 06:11:35.8637 DEBUG Here is debug message from our values controller.
+2023-10-03 06:11:35.8637 WARN Here is warn message from our values controller.
+2023-10-03 06:11:35.8637 ERROR Here is an error message from our values controller.
+2023-10-03 06:22:16.5042 INFO Here is info message from our values controller.
+2023-10-03 06:22:16.6756 DEBUG Here is debug message from our values controller.
+2023-10-03 06:22:16.6782 WARN Here is warn message from our values controller.
+2023-10-03 06:22:16.6782 ERROR Here is an error message from our values controller.
+2023-10-03 06:23:15.6859 INFO Here is info message from our values controller.
+2023-10-03 06:23:15.7968 DEBUG Here is debug message from our values controller.
+2023-10-03 06:23:15.7968 WARN Here is warn message from our values controller.
+2023-10-03 06:23:15.8037 ERROR Here is an error message from our values controller.
+2023-10-03 06:34:01.7239 INFO Here is info message from our values controller.
+2023-10-03 06:34:01.8825 DEBUG Here is debug message from our values controller.
+2023-10-03 06:34:01.8825 WARN Here is warn message from our values controller.
+2023-10-03 06:34:01.8825 ERROR Here is an error message from our values controller.
+2023-10-03 06:49:42.2083 INFO Here is info message from our values controller.
+2023-10-03 06:49:42.4126 DEBUG Here is debug message from our values controller.
+2023-10-03 06:49:42.4126 WARN Here is warn message from our values controller.
+2023-10-03 06:49:42.4126 ERROR Here is an error message from our values controller.
+2023-10-03 18:52:48.8787 INFO Here is info message from our values controller.
+2023-10-03 18:52:49.1871 DEBUG Here is debug message from our values controller.
+2023-10-03 18:52:49.1871 WARN Here is warn message from our values controller.
+2023-10-03 18:52:49.1930 ERROR Here is an error message from our values controller.
+2023-10-03 19:02:37.8424 INFO Here is info message from our values controller.
+2023-10-03 19:02:38.1316 DEBUG Here is debug message from our values controller.
+2023-10-03 19:02:38.1316 WARN Here is warn message from our values controller.
+2023-10-03 19:02:38.1316 ERROR Here is an error message from our values controller.
+2023-10-03 19:03:36.0417 INFO Here is info message from our values controller.
+2023-10-03 19:03:36.1555 DEBUG Here is debug message from our values controller.
+2023-10-03 19:03:36.1555 WARN Here is warn message from our values controller.
+2023-10-03 19:03:36.1682 ERROR Here is an error message from our values controller.
+2023-10-03 19:07:52.5572 INFO Here is info message from our values controller.
+2023-10-03 19:07:52.6790 DEBUG Here is debug message from our values controller.
+2023-10-03 19:07:52.6790 WARN Here is warn message from our values controller.
+2023-10-03 19:07:52.6790 ERROR Here is an error message from our values controller.
+2023-10-03 19:08:32.1768 INFO Here is info message from our values controller.
+2023-10-03 19:08:32.3546 DEBUG Here is debug message from our values controller.
+2023-10-03 19:08:32.3546 WARN Here is warn message from our values controller.
+2023-10-03 19:08:32.3546 ERROR Here is an error message from our values controller.
+2023-10-03 19:19:25.0698 INFO Here is info message from our values controller.
+2023-10-03 19:19:25.3179 DEBUG Here is debug message from our values controller.
+2023-10-03 19:19:25.3392 WARN Here is warn message from our values controller.
+2023-10-03 19:19:25.3392 ERROR Here is an error message from our values controller.
+2023-10-03 19:21:26.1342 INFO Here is info message from our values controller.
+2023-10-03 19:21:26.2880 DEBUG Here is debug message from our values controller.
+2023-10-03 19:21:26.2880 WARN Here is warn message from our values controller.
+2023-10-03 19:21:26.2880 ERROR Here is an error message from our values controller.
+2023-10-03 22:32:13.6142 INFO Here is info message from our values controller.
+2023-10-03 22:32:13.8089 DEBUG Here is debug message from our values controller.
+2023-10-03 22:32:13.8089 WARN Here is warn message from our values controller.
+2023-10-03 22:32:13.8183 ERROR Here is an error message from our values controller.
+2023-10-03 22:36:16.4733 INFO Here is info message from our values controller.
+2023-10-03 22:36:16.6470 DEBUG Here is debug message from our values controller.
+2023-10-03 22:36:16.6470 WARN Here is warn message from our values controller.
+2023-10-03 22:36:16.6629 ERROR Here is an error message from our values controller.
+2023-10-03 22:44:27.4079 INFO Here is info message from our values controller.
+2023-10-03 22:44:27.6022 DEBUG Here is debug message from our values controller.
+2023-10-03 22:44:27.6363 WARN Here is warn message from our values controller.
+2023-10-03 22:44:27.6363 ERROR Here is an error message from our values controller.
+2023-10-03 22:51:48.7435 INFO Here is info message from our values controller.
+2023-10-03 22:51:48.9211 DEBUG Here is debug message from our values controller.
+2023-10-03 22:51:48.9211 WARN Here is warn message from our values controller.
+2023-10-03 22:51:48.9340 ERROR Here is an error message from our values controller.

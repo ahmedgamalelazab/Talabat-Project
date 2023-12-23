@@ -1,0 +1,12 @@
+F:\asp.net web api from YouTube\RealProject\Entities\bin\Debug\net6.0\Entities.deps.json
+F:\asp.net web api from YouTube\RealProject\Entities\bin\Debug\net6.0\Entities.dll
+F:\asp.net web api from YouTube\RealProject\Entities\bin\Debug\net6.0\Entities.pdb
+F:\asp.net web api from YouTube\RealProject\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+F:\asp.net web api from YouTube\RealProject\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp.net web api from YouTube\RealProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+F:\asp.net web api from YouTube\RealProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+F:\asp.net web api from YouTube\RealProject\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+F:\asp.net web api from YouTube\RealProject\Entities\obj\Debug\net6.0\Entities.dll
+F:\asp.net web api from YouTube\RealProject\Entities\obj\Debug\net6.0\refint\Entities.dll
+F:\asp.net web api from YouTube\RealProject\Entities\obj\Debug\net6.0\Entities.pdb
+F:\asp.net web api from YouTube\RealProject\Entities\obj\Debug\net6.0\ref\Entities.dll

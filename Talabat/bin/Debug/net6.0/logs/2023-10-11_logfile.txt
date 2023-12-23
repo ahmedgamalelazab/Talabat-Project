@@ -1,0 +1,77 @@
+2023-10-11 03:51:51.1000 INFO Here is info message from our values controller.
+2023-10-11 03:51:51.2263 DEBUG Here is debug message from our values controller.
+2023-10-11 03:51:51.2263 WARN Here is warn message from our values controller.
+2023-10-11 03:51:51.2263 ERROR Here is an error message from our values controller.
+2023-10-11 07:54:11.8794 INFO Here is info message from our values controller.
+2023-10-11 07:54:12.0602 DEBUG Here is debug message from our values controller.
+2023-10-11 07:54:12.0602 WARN Here is warn message from our values controller.
+2023-10-11 07:54:12.0694 ERROR Here is an error message from our values controller.
+2023-10-11 08:01:53.6872 INFO Here is info message from our values controller.
+2023-10-11 08:01:53.8704 DEBUG Here is debug message from our values controller.
+2023-10-11 08:01:53.8704 WARN Here is warn message from our values controller.
+2023-10-11 08:01:53.8704 ERROR Here is an error message from our values controller.
+2023-10-11 08:05:42.2290 INFO Here is info message from our values controller.
+2023-10-11 08:05:42.3823 DEBUG Here is debug message from our values controller.
+2023-10-11 08:05:42.3823 WARN Here is warn message from our values controller.
+2023-10-11 08:05:42.3823 ERROR Here is an error message from our values controller.
+2023-10-11 09:36:15.7128 INFO Here is info message from our values controller.
+2023-10-11 09:36:16.1459 DEBUG Here is debug message from our values controller.
+2023-10-11 09:36:16.1459 WARN Here is warn message from our values controller.
+2023-10-11 09:36:16.1459 ERROR Here is an error message from our values controller.
+2023-10-11 10:37:53.4290 INFO Here is info message from our values controller.
+2023-10-11 10:37:53.6039 DEBUG Here is debug message from our values controller.
+2023-10-11 10:37:53.6039 WARN Here is warn message from our values controller.
+2023-10-11 10:37:53.6039 ERROR Here is an error message from our values controller.
+2023-10-11 10:41:03.9310 WARN ValidateUser; Authenticationfailed. Wrong user name or password.
+2023-10-11 11:02:06.2087 INFO Here is info message from our values controller.
+2023-10-11 11:02:06.4205 DEBUG Here is debug message from our values controller.
+2023-10-11 11:02:06.4205 WARN Here is warn message from our values controller.
+2023-10-11 11:02:06.4205 ERROR Here is an error message from our values controller.
+2023-10-11 11:03:57.4303 INFO Here is info message from our values controller.
+2023-10-11 11:03:57.6010 DEBUG Here is debug message from our values controller.
+2023-10-11 11:03:57.6010 WARN Here is warn message from our values controller.
+2023-10-11 11:03:57.6010 ERROR Here is an error message from our values controller.
+2023-10-11 11:04:51.3848 INFO Here is info message from our values controller.
+2023-10-11 11:04:51.5985 DEBUG Here is debug message from our values controller.
+2023-10-11 11:04:51.5985 WARN Here is warn message from our values controller.
+2023-10-11 11:04:51.5985 ERROR Here is an error message from our values controller.
+2023-10-11 13:16:35.5534 INFO Here is info message from our values controller.
+2023-10-11 13:16:35.7720 DEBUG Here is debug message from our values controller.
+2023-10-11 13:16:35.7720 WARN Here is warn message from our values controller.
+2023-10-11 13:16:35.7720 ERROR Here is an error message from our values controller.
+2023-10-11 13:49:42.3614 INFO Here is info message from our values controller.
+2023-10-11 13:49:42.5054 DEBUG Here is debug message from our values controller.
+2023-10-11 13:49:42.5054 WARN Here is warn message from our values controller.
+2023-10-11 13:49:42.5054 ERROR Here is an error message from our values controller.
+2023-10-11 13:52:33.3431 ERROR Something Went Wrong : System.InvalidOperationException: Role AMINISTRATOR does not exist.
+   at Microsoft.AspNetCore.Identity.EntityFrameworkCore.UserStore`9.AddToRoleAsync(TUser user, String normalizedRoleName, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Identity.UserManager`1.AddToRolesAsync(TUser user, IEnumerable`1 roles)
+   at Service.AuthenticationService.RegisterUser(UserForRegistrationDto userForRegistration) in F:\asp.net web api from YouTube\RealProject\Service\AuthenticationService.cs:line 46
+   at Talabat.Presentation.Controllers.AuthenticationController.RegisterUser(UserForRegistrationDto userForRegistration) in F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\Controllers\AuthenticationController.cs:line 26
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2023-10-11 13:53:31.2369 ERROR Something Went Wrong : System.InvalidOperationException: The AuthorizationPolicy named: 'Manager' was not found.
+   at Microsoft.AspNetCore.Authorization.AuthorizationPolicy.CombineAsync(IAuthorizationPolicyProvider policyProvider, IEnumerable`1 authorizeData)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2023-10-11 14:04:35.4166 ERROR Something Went Wrong : System.InvalidOperationException: The AuthorizationPolicy named: 'Manager' was not found.
+   at Microsoft.AspNetCore.Authorization.AuthorizationPolicy.CombineAsync(IAuthorizationPolicyProvider policyProvider, IEnumerable`1 authorizeData)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2023-10-11 16:50:28.7037 INFO Here is info message from our values controller.
+2023-10-11 16:50:28.9253 DEBUG Here is debug message from our values controller.
+2023-10-11 16:50:28.9253 WARN Here is warn message from our values controller.
+2023-10-11 16:50:28.9253 ERROR Here is an error message from our values controller.

@@ -1,0 +1,42 @@
+2023-10-19 19:27:09.1961 INFO Here is info message from our values controller.
+2023-10-19 19:27:09.4557 DEBUG Here is debug message from our values controller.
+2023-10-19 19:27:09.4622 WARN Here is warn message from our values controller.
+2023-10-19 19:27:09.4622 ERROR Here is an error message from our values controller.
+2023-10-19 19:28:55.1829 INFO Here is info message from our values controller.
+2023-10-19 19:28:55.3007 DEBUG Here is debug message from our values controller.
+2023-10-19 19:28:55.3007 WARN Here is warn message from our values controller.
+2023-10-19 19:28:55.3007 ERROR Here is an error message from our values controller.
+2023-10-19 19:32:40.4636 INFO Here is info message from our values controller.
+2023-10-19 19:32:40.6416 DEBUG Here is debug message from our values controller.
+2023-10-19 19:32:40.6455 WARN Here is warn message from our values controller.
+2023-10-19 19:32:40.6455 ERROR Here is an error message from our values controller.
+2023-10-19 19:34:57.7180 INFO Here is info message from our values controller.
+2023-10-19 19:34:57.8707 DEBUG Here is debug message from our values controller.
+2023-10-19 19:34:57.8707 WARN Here is warn message from our values controller.
+2023-10-19 19:34:57.8864 ERROR Here is an error message from our values controller.
+2023-10-19 19:37:10.3546 ERROR Something Went Wrong : System.NullReferenceException: Object reference not set to an instance of an object.
+   at Repository.RepositoryManager.get_Order() in F:\asp.net web api from YouTube\RealProject\Repository\RepositoryManager.cs:line 49
+   at Service.OrderService.CreateOrderAsync(OrderCreateDto ordercreate) in F:\asp.net web api from YouTube\RealProject\Service\OrderService.cs:line 49
+   at Talabat.Presentation.Controllers.OrderController.CreateOrder(OrderCreateDto orderCreate) in F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\Controllers\OrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2023-10-19 19:39:17.0206 INFO Here is info message from our values controller.
+2023-10-19 19:39:17.1903 DEBUG Here is debug message from our values controller.
+2023-10-19 19:39:17.1938 WARN Here is warn message from our values controller.
+2023-10-19 19:39:17.1938 ERROR Here is an error message from our values controller.
+2023-10-19 19:46:02.1929 INFO Here is info message from our values controller.
+2023-10-19 19:46:02.4077 DEBUG Here is debug message from our values controller.
+2023-10-19 19:46:02.4400 WARN Here is warn message from our values controller.
+2023-10-19 19:46:02.4445 ERROR Here is an error message from our values controller.

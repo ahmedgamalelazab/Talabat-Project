@@ -1,0 +1,6 @@
+2023-11-16 21:16:36.5886 ERROR Could not find a part of the path 'F:\asp.net web api from YouTube\RealProject\Repository\Data\DataSeed\brands.json'.
+2023-11-16 21:22:15.3188 ERROR Could not find a part of the path 'F:\asp.net web api from YouTube\RealProject\Repository\Data\DataSeed\brands.json'.
+2023-11-16 21:25:21.4315 ERROR Could not find a part of the path 'F:\asp.net web api from YouTube\RealProject\Repository\Data\DataSeed\brands.json'.
+2023-11-16 21:35:01.8952 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-11-16 21:50:42.8552 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-11-16 21:54:46.9339 ERROR An error occurred while saving the entity changes. See the inner exception for details.

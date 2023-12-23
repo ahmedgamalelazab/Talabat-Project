@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "AngularForLearning",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "PictureUrl": "images/clients/OIP (1).gif",
+    "StartWork": "10 AM",
+    "EndWork": "10 PM",
+    "NoOfBranch": 2,
+    "Website": "http://Angular.com",
+    "PhoneNum": "01023423523",
+    "MinOrder": 50,
+    "Avaraible": "Open",
+    "Address": "Egypt Alexandria Street",
+    "ClientTypeId": 1
+  },
+  {
+    "Name": "AngularForLearning",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "PictureUrl": "images/clients/OIP (2).gif",
+    "StartWork": "10 AM",
+    "EndWork": "10 PM",
+    "NoOfBranch": 2,
+    "Website": "http://Angular.com",
+    "PhoneNum": "01023423523",
+    "MinOrder": 50,
+    "Avaraible": "Close",
+    "Address": "Egypt Alexandria Street",
+    "ClientTypeId": 2
+  },
+  {
+    "Name": "AngularForLearning",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "PictureUrl": "images/clients/restaurant-logo-mr-bolat.png",
+    "StartWork": "10 AM",
+    "EndWork": "10 PM",
+    "NoOfBranch": 2,
+    "Website": "http://Angular.com",
+    "PhoneNum": "01023423523",
+    "MinOrder": 50,
+    "Avaraible": "Open",
+    "Address": "Egypt Alexandria Street",
+    "ClientTypeId": 3
+  }
+]
