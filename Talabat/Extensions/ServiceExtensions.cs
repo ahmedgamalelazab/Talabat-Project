@@ -5,15 +5,12 @@ using Service.Contracts;
 using Service;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
-using Entities.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using StackExchange.Redis;
-using Repository.Data;
 using Repository.Data.Identity;
 using Entities.Identity;
-using Stripe;
 
 namespace Talabat.Extensions
 {
@@ -23,7 +20,7 @@ namespace Talabat.Extensions
             services.AddCors(options =>
             {
                 options.AddPolicy("CorsPolicy", builder =>
-                builder.WithOrigins("https://localhost:4200")
+                builder.WithOrigins("https://localhost:4200","http://localhost:3000")                
                 .AllowAnyMethod()
                 .AllowAnyHeader()
                 .WithExposedHeaders("X-Pagination"));
@@ -46,7 +43,7 @@ namespace Talabat.Extensions
 
         public static void ConfigureServiceManager(this IServiceCollection services) =>
             services.AddScoped<IServiceManager, ServiceManager>();
-        public static void ConfigureRepositoryBase(this IServiceCollection services) 
+        public static void ConfigureRepositoryBase(this IServiceCollection services)
             => services.AddScoped(typeof(IRepositoryBase<>), typeof(RepositoryBase<>));
 
         public static void ConfigureUnitOfWork(this IServiceCollection services) =>
@@ -59,7 +56,7 @@ namespace Talabat.Extensions
 
         public static void ConfigureTokenService(this IServiceCollection services)
             => services.AddScoped<ITokenService, Service.TokenService>();
-        public static void ConfiguraSqlContext(this IServiceCollection services, IConfiguration configuration) => 
+        public static void ConfiguraSqlContext(this IServiceCollection services, IConfiguration configuration) =>
             services.AddSqlServer<RepositoryContext>((configuration.GetConnectionString("sqlConnections")));
         public static void ConfigureIdentityDbContext(this IServiceCollection services, IConfiguration configuration) =>
             services.AddSqlServer<AppIdentityDbContext>(configuration.GetConnectionString("identityDbConnections"));
@@ -67,7 +64,7 @@ namespace Talabat.Extensions
             services.AddSingleton<IConnectionMultiplexer>(s =>
             {
                 var connection = ConfigurationOptions.Parse(configuration.GetConnectionString("redis"));
-                 return ConnectionMultiplexer.Connect(connection);
+                return ConnectionMultiplexer.Connect(connection);
             });
         public static void ConfigureIdentity(this IServiceCollection services)
         {
@@ -75,9 +72,9 @@ namespace Talabat.Extensions
             {
                 o.Password.RequireDigit = true;
                 o.Password.RequireLowercase = false;
-                o.Password.RequireUppercase= false;
-                o.Password.RequireNonAlphanumeric= false;
-                o.Password.RequiredLength= 10;
+                o.Password.RequireUppercase = false;
+                o.Password.RequireNonAlphanumeric = false;
+                o.Password.RequiredLength = 10;
                 o.User.RequireUniqueEmail = true;
             })
                 .AddEntityFrameworkStores<AppIdentityDbContext>()

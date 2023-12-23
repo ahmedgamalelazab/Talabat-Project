@@ -932,19 +932,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ET\\.nuget\\packages\\": {}
+    "C:\\Users\\Gemy\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\asp.net web api from YouTube\\RealProject\\Service.Contracts\\Service.Contracts.csproj",
+      "projectUniqueName": "D:\\work\\talbat khaled ali\\Talabat-Project\\Service.Contracts\\Service.Contracts.csproj",
       "projectName": "Service.Contracts",
-      "projectPath": "F:\\asp.net web api from YouTube\\RealProject\\Service.Contracts\\Service.Contracts.csproj",
-      "packagesPath": "C:\\Users\\ET\\.nuget\\packages\\",
-      "outputPath": "F:\\asp.net web api from YouTube\\RealProject\\Service.Contracts\\obj\\",
+      "projectPath": "D:\\work\\talbat khaled ali\\Talabat-Project\\Service.Contracts\\Service.Contracts.csproj",
+      "packagesPath": "C:\\Users\\Gemy\\.nuget\\packages\\",
+      "outputPath": "D:\\work\\talbat khaled ali\\Talabat-Project\\Service.Contracts\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gemy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -952,17 +957,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\asp.net web api from YouTube\\RealProject\\Entities\\Entities.csproj": {
-              "projectPath": "F:\\asp.net web api from YouTube\\RealProject\\Entities\\Entities.csproj"
+            "D:\\work\\talbat khaled ali\\Talabat-Project\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\work\\talbat khaled ali\\Talabat-Project\\Entities\\Entities.csproj"
             },
-            "F:\\asp.net web api from YouTube\\RealProject\\Shared\\Shared.csproj": {
-              "projectPath": "F:\\asp.net web api from YouTube\\RealProject\\Shared\\Shared.csproj"
+            "D:\\work\\talbat khaled ali\\Talabat-Project\\Shared\\Shared.csproj": {
+              "projectPath": "D:\\work\\talbat khaled ali\\Talabat-Project\\Shared\\Shared.csproj"
             }
           }
         }
@@ -992,7 +998,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

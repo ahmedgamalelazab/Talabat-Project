@@ -21,3 +21,27 @@ F:\asp.net web api from YouTube\RealProject\Service\obj\Debug\net6.0\Service.pdb
 F:\asp.net web api from YouTube\RealProject\Service\obj\Debug\net6.0\ref\Service.dll
 F:\asp.net web api from YouTube\RealProject\Service\bin\Debug\net6.0\Repository.dll
 F:\asp.net web api from YouTube\RealProject\Service\bin\Debug\net6.0\Repository.pdb
+D:\work\talbat khaled ali\Talabat-Project\Service\bin\Debug\net6.0\Service.deps.json
+D:\work\talbat khaled ali\Talabat-Project\Service\bin\Debug\net6.0\Service.dll
+D:\work\talbat khaled ali\Talabat-Project\Service\bin\Debug\net6.0\Service.pdb
+D:\work\talbat khaled ali\Talabat-Project\Service\bin\Debug\net6.0\Contracts.dll
+D:\work\talbat khaled ali\Talabat-Project\Service\bin\Debug\net6.0\Entities.dll
+D:\work\talbat khaled ali\Talabat-Project\Service\bin\Debug\net6.0\Repository.dll
+D:\work\talbat khaled ali\Talabat-Project\Service\bin\Debug\net6.0\Service.Contracts.dll
+D:\work\talbat khaled ali\Talabat-Project\Service\bin\Debug\net6.0\Shared.dll
+D:\work\talbat khaled ali\Talabat-Project\Service\bin\Debug\net6.0\Contracts.pdb
+D:\work\talbat khaled ali\Talabat-Project\Service\bin\Debug\net6.0\Repository.pdb
+D:\work\talbat khaled ali\Talabat-Project\Service\bin\Debug\net6.0\Service.Contracts.pdb
+D:\work\talbat khaled ali\Talabat-Project\Service\bin\Debug\net6.0\Shared.pdb
+D:\work\talbat khaled ali\Talabat-Project\Service\bin\Debug\net6.0\Entities.pdb
+D:\work\talbat khaled ali\Talabat-Project\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\work\talbat khaled ali\Talabat-Project\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\talbat khaled ali\Talabat-Project\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\work\talbat khaled ali\Talabat-Project\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\work\talbat khaled ali\Talabat-Project\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\work\talbat khaled ali\Talabat-Project\Service\obj\Debug\net6.0\Service.sourcelink.json
+D:\work\talbat khaled ali\Talabat-Project\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\work\talbat khaled ali\Talabat-Project\Service\obj\Debug\net6.0\Service.dll
+D:\work\talbat khaled ali\Talabat-Project\Service\obj\Debug\net6.0\refint\Service.dll
+D:\work\talbat khaled ali\Talabat-Project\Service\obj\Debug\net6.0\Service.pdb
+D:\work\talbat khaled ali\Talabat-Project\Service\obj\Debug\net6.0\ref\Service.dll
