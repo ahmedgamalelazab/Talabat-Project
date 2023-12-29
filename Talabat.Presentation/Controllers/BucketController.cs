@@ -41,7 +41,17 @@ namespace Talabat.Presentation.Controllers
                     return BadRequest("No file or empty file uploaded");
                 }
 
-                var fileName = ContentDispositionHeaderValue.Parse(file.ContentDisposition).FileName.Trim('"');
+                var fileName = ContentDispositionHeaderValue.Parse(file.ContentDisposition)?.FileName?.Trim('"');
+
+                try
+                {
+                    fileName = Guid.NewGuid().ToString() + System.IO.Path.GetExtension(fileName);
+                }
+                catch (Exception ex)
+                {
+                    // Log: Exception occurred during file upload
+                    return StatusCode(500, $"Internal server error: {ex}");
+                }
 
                 // Convert IFormFile to byte[]
                 using (var memoryStream = new MemoryStream())
@@ -79,7 +89,33 @@ namespace Talabat.Presentation.Controllers
             try
             {
                 string imageURL = _imageKitClient.Url(new Transformation()).Path(filePath).Generate();
-                return StatusCode(200, imageURL);
+                try
+                {
+                    using (var httpClient = new HttpClient())
+                    {
+                        using (var response = await httpClient.GetAsync(imageURL))
+                        {
+                            if (response.IsSuccessStatusCode)
+                            {
+                                byte[] bytes = await response.Content.ReadAsByteArrayAsync();
+                                string base64 = Convert.ToBase64String(bytes);
+                                // prefix the base64 string with the data URL scheme based on the file type
+                                string mimeType = response.Content.Headers.ContentType.MediaType;
+                                base64 = $"data:{mimeType};base64,{base64}";                                
+                                imageURL = base64;
+                            }
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    // Log: Exception occurred during file download
+                    return StatusCode(500, $"Internal server error: {ex}");
+                }
+
+                // return me json format of the imageUrl resuts 
+                string jsonResponse = JsonConvert.SerializeObject(new { message = "Image downloaded", result = imageURL });
+                return Ok(jsonResponse);
             }
             catch (Exception ex)
             {
